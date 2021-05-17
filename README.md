@@ -28,9 +28,6 @@ Numpy, Pandas, Requests, Matplotlib, Seaborn, Geopandas, Plotly, Descartes, Foli
 3. Data analysis & visualization: Findindg insights
 4. Conclusion
 
-[1] Github: https://github.com/paulcheng0830
-    Tableau: https://public.tableau.com/profile/pc830
-    
 
 
 
@@ -47,3 +44,6 @@ Numpy, Pandas, Requests, Matplotlib, Seaborn, Geopandas, Plotly, Descartes, Foli
 5. Flats-Block Ratio is useful for finding which estate is more intensive: Hoi Tat Estate (Region: Kowloon West), Mei Tung Estate (Region: Kowloon East) and Tai Hing Estate(Region: New Territories West) is the top 3 intensive public estate. 
 
 6. Not surprisingly, most of the property management company is Housing Authority Property due to the nature of public housing is mostly owned by Hong Kong government. However, the Carpark Management is mostly owned and operated by a private corporation.
+
+[1] Github: https://github.com/paulcheng0830
+    Tableau: https://public.tableau.com/profile/pc830
