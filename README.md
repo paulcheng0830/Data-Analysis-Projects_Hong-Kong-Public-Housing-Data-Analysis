@@ -1,5 +1,10 @@
 # Data Analysis Projects - Hong Kong Public Housing Analysis
 
+If you cannot access 'hk_public_housing_2021.ipynb', Please find below the link for more details:
+
+https://nbviewer.jupyter.org/github/paulcheng0830/Data-Analysis-Projects_Hong-Kong-Public-Housing-Data-Analysis/blob/main/hk_public_housing_2021.ipynb
+
+
 **Introduction**
 
 According to the Global Living 2020 report by CBRE research, Hong Kong property price once again became the most expensive place to purchase a property in the world. In general, the property market could be separated into two fields: the private housing side & the public housing side. For the private housing side, I already finished the personal project of Hong Kong private housing data analysis. Please also visit my GitHub repositories and Tableau for details.[1] For the public housing side, even Hong Kong is one of the most prosperous countries, part of citizens still cannot afford this sky-high property price. Therefore the public housing projects are still continuously planing and implementing since the British Hong Kong governance nowadays. It goals to provide a stable living environment for Hong Kong citizens. This project aims to provide a general view of Hong Kong public housing.
